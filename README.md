@@ -5,7 +5,7 @@ Forward Deployed Engineer y responsable de TI en retail de belleza. Trabajo dond
 **En qué trabajo**
 
 - Soporte e infraestructura de TI: equipos, redes y sistemas internos
-- Automatización con IA: agentes, chatbots y servidores MCP sobre datos internos
+- Automatización con IA: agentes y servidores MCP sobre datos internos
 - Desarrollo web y aplicaciones internas
 - Datos y reportes para decisiones de negocio
 - Método de desarrollo basado en especificaciones, para que lo construido sea revisable y no dependa de una sola persona
